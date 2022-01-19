@@ -1,0 +1,55 @@
+﻿  Enemy.cpp
+  File.cpp
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\File.cpp(58): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.h(106): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Game.cpp(247): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Game.cpp(273): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Game.cpp(276): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Game.cpp(292): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Game.cpp(318): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Game.cpp(349): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Game.cpp(360): warning C4018: '<': signed/unsigned mismatch
+  GameObject.cpp
+  Input.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Model.cpp
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(199): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(201): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(202): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(209): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(210): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(211): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(225): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(252): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(259): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(266): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Model.cpp(316): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Pickup.cpp
+  Player.cpp
+  Score.cpp
+  Skybox.cpp
+  Spawner.cpp
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.h(106): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(66): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(104): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(164): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(208): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(217): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(227): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(245): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(246): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(256): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(257): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(261): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(262): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(270): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(271): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(384): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(395): warning C4018: '<': signed/unsigned mismatch
+C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Spawner.cpp(405): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LouieWilliamson_AE2_Game.vcxproj -> C:\Users\louie\UNI\Advanced Games Programming\LouieWilliamson_AE2_Game\Debug\LouieWilliamson_AE2_Game.exe
